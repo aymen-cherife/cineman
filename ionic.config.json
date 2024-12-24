@@ -1,0 +1,7 @@
+{
+  "name": "cineman",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
